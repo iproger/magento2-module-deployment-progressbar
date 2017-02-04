@@ -1,13 +1,13 @@
 <?php
 
-namespace Iproger\DeploymentProgressBar\Helper\ProgressBar;
+namespace Iproger\DeploymentProgressBar\Helper;
 
 /**
  * Cli ProgressBar
  *
  * @author Mykhailo Shatilov <shatilov@usa.com>
  */
-class Manager extends \ProgressBar\Manager
+class ProgressBar extends \ProgressBar\Manager
 {
 
     /**
