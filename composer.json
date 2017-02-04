@@ -1,0 +1,22 @@
+{
+    "name": "iproger/module-deployprogressbar",
+    "description": "Progress Bar for static-content:deploy command",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mykhailo Shatilov",
+            "email": "shatilov@usa.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Iproger\\DeploymentProgressBar\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
