@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "guiguiboy/php-cli-progress-bar": "^1.0.0"
+        "guiguiboy/php-cli-progress-bar": "dev-master"
     },
     "autoload": {
         "psr-4": {
