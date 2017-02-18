@@ -1,5 +1,5 @@
 {
-    "name": "iproger/module-deployprogressbar",
+    "name": "iproger/module-deploymentprogressbar",
     "description": "Progress Bar for static-content:deploy command",
     "license": "MIT",
     "authors": [
