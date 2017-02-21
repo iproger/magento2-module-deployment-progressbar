@@ -1,5 +1,5 @@
 {
-    "name": "iproger/module-deploymentprogressbar",
+    "name": "iproger/magento2-module-deploymentprogressbar",
     "description": "Progress Bar for static-content:deploy command",
     "license": "MIT",
     "authors": [
